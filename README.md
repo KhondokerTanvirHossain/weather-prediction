@@ -1,8 +1,8 @@
 # Weather Prediction
-This is a LSTM based RNN model to analysis time series data that can predict temprature, pressure, humidity and wind speed of the city Berlin for next 10 days. 
+This is a LSTM based RNN model to analysis time series data that can predict temperature, pressure, humidity and wind speed of the city Berlin for next 10 days. 
 
 ## Features
-* Predict temprature, pressure, wind speed and humidity
+* Predict temperature, pressure, wind speed and humidity
 * Predict next 10 day's weather
 * Accuracy of the LSTM network of RNN model based on rmse analysis is more than 98%  
 
@@ -16,7 +16,7 @@ This is a LSTM based RNN model to analysis time series data that can predict tem
 ## Technologies
 * Python
 * keras
-* Tesorflow
+* Tensorflow
 * Anaconda
 
 ## Installation Procedure
